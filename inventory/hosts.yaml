@@ -1,0 +1,29 @@
+R1:
+    hostname: 172.16.138.11
+    groups:
+        - router
+R2-MPLS:
+    hostname: 172.16.138.12
+    groups:
+        - router
+R3-INTERNET:
+    hostname: 172.16.138.13
+    groups:
+        - router
+SW-CORE1:
+    hostname: 172.16.138.14
+    groups:
+        - router
+SW-ACCESS1:
+    hostname: 172.16.138.15
+    groups:
+        - router
+SW-ACCESS2:
+    hostname: 172.16.138.16
+    groups:
+        - router
+SW-CORE2:
+    hostname: 172.16.138.17
+    groups:
+        - router
+

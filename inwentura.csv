@@ -1,0 +1,7 @@
+SW-CORE1;1740.0;Unknown;Cisco;Version 15.2;Building N, Floor 3, Building O, Floor 4, Network Closet 1;Vlan1: 172.16.138.14/24
+SW-CORE2;1740.0;Unknown;Cisco;Version 15.2;Building R, Floor 3, Telecom RoomNetwork Closet 1;Vlan1: 172.16.138.17/24
+SW-ACCESS1;1740.0;Unknown;Cisco;Version 15.2;Building F, Floor 3, Network Cabinet 2;Vlan1: 172.16.138.15/24
+R3-INTERNET;1740.0;Unknown;Cisco;Version 15.5;Building E, Floor 2, Network Cabinet 1;Ethernet0/0: 172.16.138.13/24 , Ethernet0/1: 192.168.122.97/24
+R1;1740.0;Unknown;Cisco;Version 15.5;Building A, Floor 1, Server Room;Ethernet0/0: 172.16.138.11/24 , Loopback0: 1.1.1.1/32
+SW-ACCESS2;300.0;Unknown;Cisco;Version 15.2;Building N, Floor 3, Server Room;Vlan1: 172.16.138.16/24
+R2-MPLS;1740.0;Unknown;Cisco;Version 15.5;Building D, Floor 1, Telecom Room;Ethernet0/0: 172.16.138.12/24
